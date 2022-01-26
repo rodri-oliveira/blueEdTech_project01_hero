@@ -53,7 +53,7 @@ function personNotWork() {
         "Você concluiu o segundo grau ?  ",
         "Você tem um objetivo? ",
         "Você acha importante tem um bom relacionamento interpessaol ?  ",
-        "Você reclama muito da vida ?  ",
+        "Você acha importante ter empatia ?  ",
         "Você é resiliente ?  "
     ]
     questionPersonNotWork.map((item, indice) => {
